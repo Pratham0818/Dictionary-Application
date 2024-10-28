@@ -1,4 +1,5 @@
 # Project-
+Features: Word of the Day , Search History , Favorite Words , English To Marathi Dictionary.
 To start the project :
 download Node.js , MongoDB , vs code.
 follow the commands:
