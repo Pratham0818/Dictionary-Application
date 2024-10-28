@@ -6,7 +6,6 @@ const session = require('express-session'); // To manage user sessions
 
 const app = express();
 const PORT = 5000;
-const port = process.env.PORT || 4000;
 
 // Connect to MongoDB
 mongoose.connect('mongodb://localhost:27017/miniproject')
