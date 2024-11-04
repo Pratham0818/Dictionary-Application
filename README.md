@@ -36,7 +36,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 Screenshots: 
 
-![login page](public/images/login page.png)
+![login page](public/images/loginpage.png)
 
 
 
