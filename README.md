@@ -16,6 +16,7 @@ Discover a sea of words and embark on a journey to enhance your vocabulary!
 💡 Word Suggestions: Entered a misspelled word? No worries—Word Voyage will suggest similar words to help you find what you're looking for.
 
 🛠️ Technologies Used:
+
 Node.js
 
 Express.js
@@ -23,10 +24,12 @@ Express.js
 Frontend technologies (HTML, CSS, JavaScript)
 
 To run this project locally, clone the repository and install the dependencies:
+
 npm install
 
 🚀 Usage
 After setting up the application, start the server:
+
 npm start
 
 Visit http://localhost:5000 in your browser to start using the dictionary. 🌐
