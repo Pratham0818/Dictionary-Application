@@ -7,13 +7,15 @@ Discover a sea of words and embark on a journey to enhance your vocabulary!
 
 ❤️ Favorites: Save your favorite words for easy access later.
 
-🕒 Search History: Keep track of your previous searches, with the ability to remove entries as needed. history will save with date and time
+🕒 Search History: Keep track of your previous searches, with the ability to remove entries as needed. history will save with date and time.
 
- English to Marathi Dictionary: Provides translations for words from English to Marathi.
- 
-💡 Word Suggestions: If you enter a misspelled word, the application will suggest corrections to enhance your search experience.
+🔐 User Authentication: Your journey is secured with a login feature requiring a username and password.
 
-🛠️ Technologies Used
+🌐English to Marathi Dictionary: Provides translations for words from English to Marathi.
+
+💡 Word Suggestions: Entered a misspelled word? No worries—Word Voyage will suggest similar words to help you find what you're looking for.
+
+🛠️ Technologies Used:
 Node.js
 
 Express.js
@@ -34,7 +36,8 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 Screenshots: 
 
-public/images/login page.png
+![Login Page](public/images/login page.png)
+
 
 public/images/main page.png
 
