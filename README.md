@@ -42,7 +42,7 @@ Login Page:
 
 Main Page:
 
-![main page](public/images/mainpage.png)
+![mainpage](public/images/mainpage.png)
 
 Favorite Words Page:
 
