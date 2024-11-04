@@ -42,7 +42,8 @@ Login Page:
 
 Main Page:
 
-![mainpage](public/images/mainpage.png)
+![Home Page Screenshot](public/images/mainpage.png)
+
 
 Favorite Words Page:
 
