@@ -39,7 +39,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 Screenshots: 
 
-Login Page:
+Home Page:
 
 ![login page](public/images/loginpage.png)
 
