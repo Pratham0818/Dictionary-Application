@@ -36,7 +36,21 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 Screenshots: 
 
+Login Page:
+
 ![login page](public/images/loginpage.png)
+
+Main Page:
+
+![main page](public/images/mainpage.png)
+
+Favorite Words Page:
+
+![fav page](public/images/favpage.png)
+
+Search Words Page:
+
+![search page](public/images/searchpage.png)
 
 
 
